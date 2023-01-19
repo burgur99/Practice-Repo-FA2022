@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Eliezer Tabares
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Database 1
 
-- Course 2
+- Intro to Data science
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Intro to networks and a connected world
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Novels
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Machine Learning
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/1/19
